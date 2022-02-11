@@ -5,13 +5,9 @@ h1 {
   padding: 40px;
   font-family: "Bebas Neue", montserrat, arial;
   text-align: center;
-  color: white;
-  background-color: #222;
-  outline-color: #000436;
-  position: fixed;
-  bottom: 0;
+ color: white;
+ background-color: #222;
 }
-
 .nav ul {
   list-style: none;
   background-color: #444;
